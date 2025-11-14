@@ -1,0 +1,25 @@
+---
+title: "About Me"
+---
+
+
+## Current Projects
+
+one two three (2023 to present)
+
+## Past Projects
+
+one two three (2020 to 2023)
+
+## Languages
+
+one two three
+
+## Extracurriculars 
+
+one two three 
+
+```{r}
+
+```
+

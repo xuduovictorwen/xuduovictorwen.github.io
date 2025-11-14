@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Evan Wen’s Website",
+    "section": "",
+    "text": "This is my personal website that my brother built for me."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome to Evan Wen’s Website",
+    "section": "",
+    "text": "This is my personal website that my brother built for me."
+  },
+  {
+    "objectID": "index.html#my-background",
+    "href": "index.html#my-background",
+    "title": "Welcome to Evan Wen’s Website",
+    "section": "My Background",
+    "text": "My Background\nI am 10 years old and I live in Pasadena, California.\n\n\n\nHere’s a picture of me"
+  },
+  {
+    "objectID": "index.html#recent-experiences",
+    "href": "index.html#recent-experiences",
+    "title": "Welcome to Evan Wen’s Website",
+    "section": "Recent Experiences",
+    "text": "Recent Experiences\none\ntwo\nthree"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "one two three (2023 to present)"
+  },
+  {
+    "objectID": "about.html#current-projects",
+    "href": "about.html#current-projects",
+    "title": "About Me",
+    "section": "",
+    "text": "one two three (2023 to present)"
+  },
+  {
+    "objectID": "about.html#past-projects",
+    "href": "about.html#past-projects",
+    "title": "About Me",
+    "section": "Past Projects",
+    "text": "Past Projects\none two three (2020 to 2023)"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About Me",
+    "section": "Languages",
+    "text": "Languages\none two three"
+  },
+  {
+    "objectID": "about.html#extracurriculars",
+    "href": "about.html#extracurriculars",
+    "title": "About Me",
+    "section": "Extracurriculars",
+    "text": "Extracurriculars\none two three"
+  }
+]

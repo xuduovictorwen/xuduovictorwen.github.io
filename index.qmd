@@ -1,0 +1,23 @@
+---
+title: "Welcome to Evan Wen's Website"
+---
+
+## About this Site 
+
+This is my personal website that my brother built for me. 
+
+## My Background
+
+I am 10 years old and I live in Pasadena, California. 
+
+![Here's a picture of me](images/IMG_2127.jpg)
+
+## Recent Experiences
+
+one 
+
+two 
+
+three
+
+
