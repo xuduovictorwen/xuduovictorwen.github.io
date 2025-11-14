@@ -13,6 +13,8 @@ website:
     right:
       - href: https://github.com/xuduovictorwen 
         icon: github
+  page-footer:
+    left: "© 2025 Evan Wen"
 
 format:
   html:
